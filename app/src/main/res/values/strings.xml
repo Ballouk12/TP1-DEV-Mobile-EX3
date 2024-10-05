@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tp1_exercice3</string>
+    <string name="qst1">1. Le pattern MVC signifie que :"</string>
+    <string name="check1">Multiple Versions Combined</string>
+    <string name="check2">Model View Controller</string>
+    <string name="check3">Main Value Compiled</string>
+    <string name="check4">Mandatory Validated Controls</string>
+    <string name="quitte">Quitter</string>
+    <string name="suivant">Suivant</string>
+</resources>
