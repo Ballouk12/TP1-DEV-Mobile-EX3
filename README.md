@@ -29,7 +29,7 @@ Les boutons radio sont regroupés dans un RadioGroup pour assurer leur fonctionn
 
 - Java
 - Android Studio
-- SDK Android version 14  
+- SDK Android version 14
 - 
 ## Installation  
 
@@ -62,4 +62,6 @@ Appuyez sur le Bouton Suivant pour voir les réponses sélectionnées dans la de
 Si vous souhaitez réinitialiser vos choix, appuyez sur le Bouton Quitter.  
 
 ## Captures d'écran    
-![exo3-im2.png](..%2F..%2F..%2FTP1-Rapport%2FTP%21-Assets%2Fexo3-im2.png)   ![exo3-im1.png](..%2F..%2F..%2FTP1-Rapport%2FTP%21-Assets%2Fexo3-im1.png)   
+ 
+<img width="194" alt="exo3-im1" src="https://github.com/user-attachments/assets/c48743dd-4175-478d-a39d-d65a2dfeba72">      
+<img width="187" alt="exo3-im2" src="https://github.com/user-attachments/assets/95e72e6c-f237-462d-8b5e-5bd56ab89645">
